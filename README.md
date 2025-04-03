@@ -39,7 +39,7 @@ Since I have already created a Microsoft Azure subscription, I began the first s
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I initiated the next step in this process with the download and installation of the Windows App on my MacBook Pro.
+I initiated the next step in this process with the download and installation of the Windows App on my MacBook Pro. Once installed, I went to the drop-down menu and selected "Add PC." I then entered the public IP address from the Windows 10 virtual machine. I
 </p>
 <br />
 
