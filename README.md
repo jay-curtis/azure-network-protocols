@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="1509" alt="Screenshot 2025-04-03 at 3 17 42 PM" src="https://github.com/user-attachments/assets/b6e5aa02-c14e-4e27-83f0-abbd175c8dd3" />
 </p>
 <p>
-Since I have already created a Microsoft Azure subscription, I began the first step with the construction of two virtual machines (Windows 10 Pro and Linux [Ubuntu 22.04]). I ensured that both of them resided within one resouce group, one location (East US 2), and one virtual network. This inclusion of the same location and virtual network guaranteed that any pings between the said virtual machines (VMs) would automatically connect to one another.
+Since I have already created a Microsoft Azure subscription, I began the first step with the construction of two virtual machines (Windows 10 Pro and Linux [Ubuntu 22.04]). I ensured that both of them resided within one resouce group, one location (East US 2), and one virtual network. This inclusion of the same location and virtual network guaranteed that any pings between the said virtual machines (VMs) would automatically connect to one another. 
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Since I have already created a Microsoft Azure subscription, I began the first s
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I initiated the next step in this process with the download and installation of the Windows App on my MacBook Pro.
 </p>
 <br />
 
