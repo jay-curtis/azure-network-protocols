@@ -55,7 +55,7 @@ As the image above has indicated, I subsequently opened Windows Powershell in th
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In preparation of the third step of firewall configuration, I gave a perpetual ping command between the Windows and Linux virtual machines in Powershell. I did this by entering the command "ping" with the Linux private IP address and a "-t." I then went back to Microsoft Azure and into the Linux VM's network settings to its "Network Security Group." From there, I opened the "Settings" and then "Inbound security rules."
+In preparation of the third step of firewall configuration, I gave a perpetual ping command between the Windows and Linux virtual machines in Powershell. I did this by entering the command "ping" with the Linux private IP address and a "-t." I then went back to Microsoft Azure and into the Linux VM's network settings to its "Network Security Group." From there, I opened the "Settings" and then "Inbound security rules." I continued forward by creating a new rule that consisted of the following parameters: an asterisk for the "Source Port Ranges," "Destination" under "Any," "Destination Port Ranges" with an asterisk, a "Protocol" of "ICMPv4," a "Priority" of 290 (which is above the previously set inbound security rules), and an "Action" of "Deny."
 </p>
 <br />
 
