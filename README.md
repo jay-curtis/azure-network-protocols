@@ -39,7 +39,7 @@ Since I have already created a Microsoft Azure subscription, I began the first s
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I initiated the next step in this process with the download and installation of the Windows App on my MacBook Pro. Once installed, I went to the drop-down menu and selected "Add PC." I then entered the public IP address from the Windows 10 virtual machine. It further asked me for the administrator credentials that I established when I made the virtual machine. I subsequently entered them, and began the next phase in this step of the process.
+I initiated the next step in this process with the download and installation of the Windows App on my MacBook Pro. Once installed, I went to the drop-down menu and selected "Add PC." I then entered the public IP address from the Windows 10 Pro virtual machine. The Windows App further asked me for the administrator credentials that I established when I made the virtual machine. I entered them, and began the next phase of installing Wireshark. I therefore opened Microsoft Edge, entered Wireshark's website, selected the Windows x64 Installer, and downloaded the application.
 </p>
 <br />
 
