@@ -52,7 +52,7 @@ As the image above has indicated, I subsequently opened Windows Powershell in th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="927" alt="Screenshot 2025-04-03 at 6 14 03 PM" src="https://github.com/user-attachments/assets/9eeecb23-50b3-4105-aef8-b67ff1499432" />
 </p>
 <p>
 In preparation of the third step of firewall configuration, I gave a perpetual ping command between the Windows and Linux virtual machines in Powershell. I did this by entering the command "ping" with the Linux private IP address and a "-t." I then went back to Microsoft Azure and into the Linux VM's network settings to its "Network Security Group." From there, I opened the "Settings" and then "Inbound security rules." I continued forward by creating a new rule that established a deny action to any and all ping activity to the Linux virtual machine.
