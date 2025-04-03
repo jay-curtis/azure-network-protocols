@@ -36,10 +36,10 @@ Since I have already created a Microsoft Azure subscription, I began the first s
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="746" alt="Screenshot 2025-04-03 at 4 52 18 PM" src="https://github.com/user-attachments/assets/d18db19b-1611-412f-ad5b-f484f3cf7b7e" />
 </p>
 <p>
-I initiated the next step in this process with the download and installation of the Windows App on my MacBook Pro. Once installed, I went to the drop-down menu and selected "Add PC." I then entered the public IP address from the Windows 10 Pro virtual machine. The Windows App further asked me for the administrator credentials that I established when I made the virtual machine. I entered them, and began the next phase of installing Wireshark. I therefore opened Microsoft Edge, entered Wireshark's website, selected the Windows x64 Installer, and downloaded the application.
+I initiated the next step in this process with the download and installation of the Windows App on my MacBook Pro. Once installed, I went to the drop-down menu and selected "Add PC." I then entered the public IP address from the Windows 10 Pro virtual machine. The Windows App further asked me for the administrator credentials that I established when I made the virtual machine. I entered them, and began the next phase of installing Wireshark. I therefore opened Microsoft Edge, entered Wireshark's website, selected the Windows x64 Installer, and downloaded the application. Lastly, I opened Wireshark and started capturing packets (as seen above).
 </p>
 <br />
 
