@@ -47,7 +47,7 @@ I initiated the next step in this process with the download and installation of 
 <img width="902" alt="Screenshot 2025-04-03 at 5 07 07 PM" src="https://github.com/user-attachments/assets/938e5ad7-fd20-4ddd-ab03-4753fd04bc88" />
 </p>
 <p>
-As the image above has indicated, I subsequently opened Windows Powershell in the Windows virtual machine, and then sent the command to ping the private IP address of the Linux (Ubuntu 22.04) virtual machine. Wireshark then automatically started listing the request and reply messages between the Windows and Linux virtual machines, because of my previous command for ICMP data.
+As the image above has indicated, I subsequently opened Powershell in the Windows virtual machine, and then sent the command to ping the private IP address of the Linux (Ubuntu 22.04) virtual machine. Wireshark then automatically started listing the request and reply messages between the Windows and Linux virtual machines, because of my previous command for ICMP data.
 </p>
 <br />
 
