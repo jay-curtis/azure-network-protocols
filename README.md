@@ -71,7 +71,7 @@ Having observed through Powershell that the communication between the virtual ma
 <img width="997" alt="Screenshot 2025-04-04 at 3 45 16 PM" src="https://github.com/user-attachments/assets/b2c89363-1b65-41d1-b3c4-8644e23849d8" />
 </p>
 <p>
-The final high-level step began with the observation of SSH (Secure Shell) in Wireshark and Powershell of the Windows VM. I started the process by opening Wireshark, initiating a packet capture, and then filtering for exclusively SSH traffic. I then opened up Powershell and entered the command "ssh labuser@10.0.0.5," thereby joing the SSH command with the Linux username and private IP address. 
+The final high-level step began with the observation of SSH (Secure Shell) in Wireshark and Powershell of the Windows VM. I started the process by opening Wireshark, initiating a packet capture, and then filtering for exclusively SSH traffic. I then opened up Powershell and entered the command "ssh labuser@10.0.0.5," thereby joing the SSH command with the Linux username and private IP address. After issuing this command, I followed it by granting permission via the Linux password to access the Linux VM through the Windows VM.
 </p>
 <br />
 
