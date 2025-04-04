@@ -79,7 +79,7 @@ The final high-level step began with the observation of SSH (Secure Shell) in Wi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The second stage of the last high-level step started with the observation of DHCP (Dynamic Host Configuartion Protocol) in Wireshark and Powershell of the Windows VM. Initially, I found that when I issued the command of "ipconfig /renew" in Powershell, it did not yield the full packet of data in Wireshark. I therefore created a file in Notepad with the commands "ipconfig /release" and "ipconfig /renew." I then stored the file in "Windows C:/ProgramData" under the file name "dhcp.bat" and saved in a "All Files" type. Following on from there, I went back to Powershell and entered "cd c:\programdata" > "ls" > and then ".\dhcp.bat." These actions then relaunched the Windows VM and renewed the DHCP data traffic in Wireshark.
+The second stage of the last high-level step started with the observation of DHCP (Dynamic Host Configuartion Protocol) in Wireshark and Powershell of the Windows VM. Initially, I found that when I issued the command of "ipconfig /renew" in Powershell, it did not yield the full packet of data in Wireshark. I therefore created a file in Notepad with the commands "ipconfig /release" and "ipconfig /renew." I then stored the file in "Windows C:/ProgramData" under the file name "dhcp.bat" and saved in a "All Files" type. Following on from there, I went back to Powershell and entered "cd c:\programdata" > "ls" > and then ".\dhcp.bat." These actions then relaunched the Windows VM and renewed the DHCP data traffic in Wireshark. I finally concluded this stage with a full observation of the assignment steps in DHCP.
 </p>
 <br />
 
