@@ -68,7 +68,7 @@ Having observed through Powershell that the communication between the virtual ma
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="997" alt="Screenshot 2025-04-04 at 3 45 16 PM" src="https://github.com/user-attachments/assets/b2c89363-1b65-41d1-b3c4-8644e23849d8" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
