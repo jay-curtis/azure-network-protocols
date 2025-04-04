@@ -63,7 +63,7 @@ In preparation of the third step of firewall configuration, I gave a perpetual p
 <img width="927" alt="Screenshot 2025-04-03 at 6 14 39 PM" src="https://github.com/user-attachments/assets/8ebf966c-01d6-4bb3-8d56-4b51613b8092" />
 </p>
 <p>
-Lo
+Having observed through Powershell that the communication between the virtual machines "timed out," I decided to re-enter the Linux settings and delete its new rule. It was then only a few moments later that Powershark and Powershell began listing the ICMP traffic once again. I ultimately ended the communication session between the virtual machines by entering "Control-C" in Powershell.
 </p>
 <br />
 
