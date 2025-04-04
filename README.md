@@ -63,7 +63,7 @@ In preparation of the third step of firewall configuration, I gave a perpetual p
 <img width="927" alt="Screenshot 2025-04-03 at 6 14 39 PM" src="https://github.com/user-attachments/assets/8ebf966c-01d6-4bb3-8d56-4b51613b8092" />
 </p>
 <p>
-Having observed through Powershell that the communication between the virtual machines "timed out," I decided to re-enter the Linux settings and delete its new rule. It was then only a few moments later that Powershark and Powershell began listing the ICMP traffic once again. I ultimately ended the communication session between the virtual machines by entering "Control-C" in Powershell.
+Having observed through Powershell that the communication between the virtual machines "timed out," I decided to re-enter the Linux settings and delete its new rule. It was then only a few moments later that Wireshark and Powershell began listing the ICMP traffic once again. I ultimately ended the communication session between the virtual machines by entering "Control-C" in Powershell.
 </p>
 <br />
 
@@ -71,7 +71,7 @@ Having observed through Powershell that the communication between the virtual ma
 <img width="997" alt="Screenshot 2025-04-04 at 3 45 16 PM" src="https://github.com/user-attachments/assets/b2c89363-1b65-41d1-b3c4-8644e23849d8" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The final high-level step began with the observation of SSH (Secure Shell) in Wireshark and Powershell. I started the process by opening Wireshark, initiating a packet capture, and then filtering for exclusively SSH traffic.
 </p>
 <br />
 
