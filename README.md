@@ -92,9 +92,9 @@ The third stage in this high-level step pertained to the observation of DNS (Dom
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1193" alt="Screenshot 2025-04-05 at 3 58 41 PM" src="https://github.com/user-attachments/assets/4e3830b4-0df2-4c1d-a101-f05cbe82b956" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The fourth and final observational stage focused on accessing RDP (Remote Desktop Protocol) traffic from Wireshark. I simply cleared the current capture and entered the filter of "tcp.port ==3389" into the top space bar. I then witnessed a long and continuous packet capture from the actual Windows 10 computer to its remote desktop.
 </p>
 <br />
