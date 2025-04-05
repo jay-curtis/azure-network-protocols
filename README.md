@@ -87,7 +87,7 @@ The second stage of the last high-level step started with the observation of DHC
 <img width="857" alt="Screenshot 2025-04-05 at 3 44 10 PM" src="https://github.com/user-attachments/assets/74b729cc-4fea-40bf-bccb-64daf48c6c98" />
 </p>
 <p>
-The third stage in this high-level step pertained to the observation of DNS (Domain Name System) traffic with the tools of Wireshark and Powershell. I therefore began by restarting the current capture from Wireshark, and then I filtered it down to just "dns." I then entered the command "nslookup" with the hostname of a website (disney.com) into Powershell to obtain its own unique IP address. I finished by observing the incoming DNS packets captured from Wireshark.
+The third stage in this high-level step pertained to the observation of DNS (Domain Name System) traffic with the tools of Wireshark and Powershell. I therefore began by restarting the current capture from Wireshark, and then I filtered it down to just "dns." I then entered the command "nslookup" with the hostname of one website (disney.com) into Powershell to obtain its own IP address. I finished by observing the incoming DNS packets captured from Wireshark.
 </p>
 <br />
 
