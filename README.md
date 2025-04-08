@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups and Observations of Azure Virtual Machine Communications</h1>
+<h1>Network Security Groups and Examinations of Azure Virtual Machine Communications</h1>
 This lession observes the network traffic and network security group features between Windows and Linux virtual machines in Microsoft Azure. <br />
 
 <h2>Environments and Technologies Used</h2>
