@@ -7,7 +7,7 @@ This lession observes the network traffic and network security group features be
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure Virtual Machine
+- Microsoft Azure Virtual Machine's Platform
 - Microsoft Windows App
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, ICMP)
