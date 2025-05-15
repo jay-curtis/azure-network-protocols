@@ -10,7 +10,7 @@ This lession observes the network traffic and network security group features be
 - Microsoft Azure Virtual Machine's Platform
 - Microsoft Windows App
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, ICMP)
+- Various Network Protocols (SSH, RDP, DNS, ICMP)
 - Wireshark (Protocol Analyzer)
 - Microsoft PowerShell
 
